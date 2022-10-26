@@ -6,34 +6,34 @@ permalink: /f22
 
 <!-- # CS294 Zero Knowledge Proofs -->
 - Zoom link (TBD)
-- To sign up for the course, please fill in this [form](https://docs.google.com/forms/d/e/1FAIpQLSepJTYKc9iJycBsnywFCo9PLIq1SjbSsWIBlqfWAZGPXHrk3Q/viewform).
+<!-- - To sign up for the course, please fill in this [form](https://docs.google.com/forms/d/e/1FAIpQLSepJTYKc9iJycBsnywFCo9PLIq1SjbSsWIBlqfWAZGPXHrk3Q/viewform). -->
 
 ## Instructors
 
 <table style="table-layout: fixed; font-size: 88%; align: middle;">
   <thead>
     <tr>
-      <th style="width: 20%;"><img style="object-fit:cover" width=150 height=200 src="{{site.baseurl}}/assets/dawn-berkeley.jpg" alt="Dawn Song"></th>
-      <th style="width: 20%;"><img style="object-fit:cover" width=150 height=200 src="{{site.baseurl}}/assets/goldwasser.jpeg" alt="Shafi Goldwasser"></th>
-      <th style="width: 20%;"><img style="object-fit:cover" width=150 height=200 src="{{site.baseurl}}/assets/Boneh.jpeg" alt="Dan Boneh"></th>
+      <th style="width: 50%;"><img style="object-fit:cover" width=150 height=200 src="{{site.baseurl}}/assets/dawn-berkeley.jpg" alt="Dawn Song"></th>
+      <th style="width: 50%;"><img style="object-fit:cover" width=150 height=200 src="{{site.baseurl}}/assets/goldwasser.jpeg" alt="Shafi Goldwasser"></th>
+      <!-- <th style="width: 20%;"><img style="object-fit:cover" width=150 height=200 src="{{site.baseurl}}/assets/Boneh.jpeg" alt="Dan Boneh"></th>
       <th style="width: 20%;"><img style="object-fit:cover" width=150 height=200 src="{{site.baseurl}}/assets/yupeng.jpeg" alt="Yupeng Zhang"></th>
-      <th style="width: 20%;"><img style="object-fit:cover" width=150 height=200 src="{{site.baseurl}}/assets/thaler.png" alt="Justin Thaler"></th>
+      <th style="width: 20%;"><img style="object-fit:cover" width=150 height=200 src="{{site.baseurl}}/assets/thaler.png" alt="Justin Thaler"></th> -->
     </tr>
   </thead>
   <tbody>
     <tr>
       <td><a href="https://people.eecs.berkeley.edu/~dawnsong/">Dawn Song</a></td>
       <td><a href="https://www.csail.mit.edu/person/shafi-goldwasser/">Shafi Goldwasser</a></td>
-      <td><a href="https://crypto.stanford.edu/~dabo/">Dan Boneh</a></td>
+      <!-- <td><a href="https://crypto.stanford.edu/~dabo/">Dan Boneh</a></td>
       <td><a href="http://people.tamu.edu/~zhangyp/">Yupeng Zhang</a></td>
-      <td><a href="https://people.cs.georgetown.edu/jthaler/">Justin Thaler</a></td>
+      <td><a href="https://people.cs.georgetown.edu/jthaler/">Justin Thaler</a></td> -->
     </tr>
     <tr>
       <td>UC Berkeley</td>
       <td>MIT</td>
-      <td>Stanford</td>
+      <!-- <td>Stanford</td>
       <td>Texas A&M University</td>
-      <td>Georgetown University</td>
+      <td>Georgetown University</td> -->
     </tr>
   </tbody>
 </table>
