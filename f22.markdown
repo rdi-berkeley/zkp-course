@@ -6,7 +6,7 @@ permalink: /f22
 
 <!-- # ZKP -->
 
-# CS294-XXX Zero Knowledge Proofs
+# CS294 Zero Knowledge Proofs
 
 - To sign up for the course, please fill in this [form](https://www.google.com).
 
@@ -15,11 +15,11 @@ permalink: /f22
 <table style="table-layout: fixed; font-size: 88%; align: middle;">
   <thead>
     <tr>
-      <th style="width: 40%;"><img style="object-fit:cover" width=150 height=200 src="{{site.baseurl}}/assets/dawn-berkeley.jpg" alt="Dawn Song"></th>
-      <th style="width: 40%;"><img style="object-fit:cover" width=150 height=200 src="{{site.baseurl}}/assets/dawn-berkeley.jpg" alt="Shafi Goldwasser"></th>
-      <th style="width: 40%;"><img style="object-fit:cover" width=150 height=200 src="{{site.baseurl}}/assets/dawn-berkeley.jpg" alt="Dan Boneh"></th>
-      <th style="width: 40%;"><img style="object-fit:cover" width=150 height=200 src="{{site.baseurl}}/assets/dawn-berkeley.jpg" alt="Yupeng Zhang"></th>
-      <th style="width: 40%;"><img style="object-fit:cover" width=150 height=200 src="{{site.baseurl}}/assets/dawn-berkeley.jpg" alt="Justin Thaler"></th>
+      <th style="width: 20%;"><img style="object-fit:cover" width=150 height=200 src="{{site.baseurl}}/assets/dawn-berkeley.jpg" alt="Dawn Song"></th>
+      <th style="width: 20%;"><img style="object-fit:cover" width=150 height=200 src="{{site.baseurl}}/assets/dawn-berkeley.jpg" alt="Shafi Goldwasser"></th>
+      <th style="width: 20%;"><img style="object-fit:cover" width=150 height=200 src="{{site.baseurl}}/assets/dawn-berkeley.jpg" alt="Dan Boneh"></th>
+      <th style="width: 20%;"><img style="object-fit:cover" width=150 height=200 src="{{site.baseurl}}/assets/dawn-berkeley.jpg" alt="Yupeng Zhang"></th>
+      <th style="width: 20%;"><img style="object-fit:cover" width=150 height=200 src="{{site.baseurl}}/assets/dawn-berkeley.jpg" alt="Justin Thaler"></th>
     </tr>
   </thead>
   <tbody>
@@ -56,7 +56,7 @@ TBD
 
 | Date             | Topic                                                                     | Speaker                    |
 | ---------------- | ------------------------------------------------------------------------- | -------------------------- |
-| Sep 6<br>Lec 1   | TBD|TBD|
+|TBD| TBD|TBD|
 
 ## Assignment Timeline
 
