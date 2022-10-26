@@ -1,16 +1,14 @@
 ---
 layout: default
-title: "Entrepreneurship In Web3"
+title: "Zero Knowledge Proofs"
 permalink: /f22
 ---
 
-<!-- # Decentralized Finance -->
+<!-- # ZKP -->
 
-# CS294-224/CS194-224 Entrepreneurship In Web3
+# CS294-XXX/CS194-XXX Zero Knowledge Proofs
 
-- [Zoom link](https://berkeley.zoom.us/j/92377081508): [ <img src="./assets/meetings.png" alt="link" width="30" style="vertical-align: middle"/> ](https://berkeley.zoom.us/j/92377081508)
-- For general course content related questions, please join our [edstem](https://edstem.org/us/courses/22560/discussion/) and [discord](https://discord.gg/X63rBrNtSD).
-- <span style="color: red;"><b>Do not email the course staff or TAs. For private matters, post a private question on edstem and make sure it is visible to all teaching staff.</b></span>
+- To sign up for the course, please fill in this [form] (https://www.google.com).
 
 ## Instructors
 
@@ -18,24 +16,33 @@ permalink: /f22
   <thead>
     <tr>
       <th style="width: 40%;"><img style="object-fit:cover" width=150 height=200 src="{{site.baseurl}}/assets/dawn-berkeley.jpg" alt="Dawn Song"></th>
-      <th style="width: 40%;"><img style="object-fit:cover" width=150 height=200 src="{{site.baseurl}}/assets/haseeb.jpeg" alt="Haseeb Qureshi"></th>
+      <th style="width: 40%;"><img style="object-fit:cover" width=150 height=200 src="{{site.baseurl}}/assets/dawn-berkeley.jpeg" alt="Shafi Goldwasser"></th>
+      <th style="width: 40%;"><img style="object-fit:cover" width=150 height=200 src="{{site.baseurl}}/assets/dawn-berkeley.jpg" alt="Dan Boneh"></th>
+      <th style="width: 40%;"><img style="object-fit:cover" width=150 height=200 src="{{site.baseurl}}/assets/dawn-berkeley.jpeg" alt="Yupeng Zhang"></th>
+      <th style="width: 40%;"><img style="object-fit:cover" width=150 height=200 src="{{site.baseurl}}/assets/dawn-berkeley.jpeg" alt="Justin Thaler"></th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td><a href="https://people.eecs.berkeley.edu/~dawnsong/">Dawn Song</a></td>
-      <td><a href="#">Haseeb Qureshi</a>, Guest Instructor</td>
+      <td><a href="https://www.csail.mit.edu/person/shafi-goldwasser/">Shafi Goldwasser</a></td>
+      <td><a href="https://crypto.stanford.edu/~dabo/">Dan Boneh</a></td>
+      <td><a href="http://people.tamu.edu/~zhangyp/">Yupeng Zhang</a></td>
+      <td><a href="https://people.cs.georgetown.edu/jthaler/">Justin Thaler</a></td>
     </tr>
     <tr>
-      <td>Professor, UC Berkeley</td>
-      <td>Managing Partner, Dragonfly</td>
+      <td>UC Berkeley</td>
+      <td>MIT</td>
+      <td>Stanford</td>
+      <td>Texas A&M University</td>
+      <td>Georgetown University</td>
     </tr>
   </tbody>
 </table>
 
 ## TAs
 
-Xiaoyuan Liu
+TBD
 
 ## Class Time
 Synchronous lecture: 4:00 PM-5:59 PM PT Tue, starting Sep 6. 
