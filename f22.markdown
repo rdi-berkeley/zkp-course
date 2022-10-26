@@ -8,7 +8,7 @@ permalink: /f22
 
 # CS294 Zero Knowledge Proofs
 - Zoom link (TBD)
-- To sign up for the course, please fill in this [form](https://forms.gle/zHA3M7nyFNdXNKXu7).
+- To sign up for the course, please fill in this [form](https://docs.google.com/forms/d/e/1FAIpQLSepJTYKc9iJycBsnywFCo9PLIq1SjbSsWIBlqfWAZGPXHrk3Q/viewform).
 
 ## Instructors
 
