@@ -5,7 +5,7 @@ permalink: /f22
 ---
 
 # CS294/194-238 Zero Knowledge Proofs
-- Zoom link (TBD)
+<!-- - Zoom link (TBD) -->
 <!-- - To sign up for the course, please fill in this [form](https://docs.google.com/forms/d/e/1FAIpQLSepJTYKc9iJycBsnywFCo9PLIq1SjbSsWIBlqfWAZGPXHrk3Q/viewform). -->
 
 ## Instructors
@@ -30,9 +30,20 @@ permalink: /f22
 </table>
 
 ## Course Description
-TBD
+This class aims to bring together students and experts in academia and industry to explore Zero-Knowledge Proofs (ZKP). ZKP is a classical cryptographic primitive that ensures the validity of data and computations without sacrificing their confidentiality. It was proposed in the seminal paper by Goldwasser-Micali-Rackoff in 1985. Long considered wildly impractical, ZKPs have seen enormous efficiency improvements over the last decade. This has unlocked entirely new paradigms in the design of distributed and trustless systems, making ZKP one of the most important technologies to the future of blockchains. ZKPs are already being used to build privacy-preserving cryptocurrencies and to improve scalability via zkRollups and zkEVMs, and they stand poised to transform society’s mechanisms for establishing trust and privacy in the coming years and decades.
 
-## TAs
+Our goal is to provide a platform for students to learn the cutting-edge technology of ZKP. Through the exposure to research in academia, and technology in industry, the students will be able to quickly gain the knowledge of ZKP and to develop ZKP systems for various applications.  
+
+This course covers fundamental techniques to build ZKP protocols, tools to implement ZKP for different computations, and different applications of ZKP in blockchain and other areas.  Topics in the course include:
+- An introduction on the history of ZKP. We will cover the theoretical foundations and early constructions of ZKP, as well as the recent theoretical advancements in this research area.
+- We will cover the design of several current efficient ZKP systems. We will discuss the key ideas in the constructions of these ZKP schemes. ZKP schemes can be based on various different cryptographic techniques and the course will elaborate on their advantages and disadvantages in terms of efficiency, trust model and assumptions. 
+- To help students with developing ZKP systems and applications, we will provide tutorials on the front-end compilers to write ZKP statements. Students can write the computations using such higher-level programming languages, and compile them to low-level representations and run the ZKP protocols using these tools.
+- Finally, we will cover applications of ZKP, including (1) privacy-preserving cryptocurrencies and computations such as Zcash and Zexe; (2) zkRollup and zkEVM that improve the scalability of blockchain; (3) zkBridge to build a secure foundation for multi-chain interoperability; (4) other applications in machine learning, program analysis, and network traffic analysis.
+
+## Class Starts
+January 17, 2023
+
+<!-- ## TAs
 TBD
 
 ## Class Time
@@ -57,4 +68,4 @@ TBD
 
 ### Participation
 
-TBD
+TBD -->
