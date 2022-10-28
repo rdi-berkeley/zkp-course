@@ -40,7 +40,7 @@ This course covers fundamental techniques to build ZKP protocols, tools to imple
 - To help students with developing ZKP systems and applications, we will provide tutorials on the front-end compilers to write ZKP statements. Students can write the computations using such higher-level programming languages, and compile them to low-level representations and run the ZKP protocols using these tools.
 - Finally, we will cover applications of ZKP, including (1) privacy-preserving cryptocurrencies and computations such as Zcash and Zexe; (2) zkRollup and zkEVM that improve the scalability of blockchain; (3) zkBridge to build a secure foundation for multi-chain interoperability; (4) other applications in machine learning, program analysis, and network traffic analysis.
 
-## Class Starts
+## Class Start Date
 January 17, 2023
 
 <!-- ## TAs
