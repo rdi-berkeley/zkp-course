@@ -13,21 +13,207 @@ permalink: /f22
 <table style="table-layout: fixed; font-size: 88%; align: middle;">
   <thead>
     <tr>
-      <th style="width: 40%;"><img style="object-fit:cover" width=150 height=200 src="{{site.baseurl}}/assets/dawn-berkeley.jpg" alt="Dawn Song"></th>
-      <th style="width: 40%;"><img style="object-fit:cover" width=150 height=200 src="{{site.baseurl}}/assets/goldwasser.jpeg" alt="Shafi Goldwasser"></th>
+      <th style="width: 33%;"><img style="object-fit:cover" width=150 height=200 src="{{site.baseurl}}/assets/dawn-berkeley.jpg" alt="Dawn Song"></th>
+      <th style="width: 33%;"><img style="object-fit:cover" width=150 height=200 src="{{site.baseurl}}/assets/goldwasser.jpeg" alt="Shafi Goldwasser"></th>
+      <th style="width: 33%;"><img style="object-fit:cover" width=150 height=200 src="{{site.baseurl}}/assets/arka.jpeg" alt="Arka Rai Choudhuri"></th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td><a href="https://people.eecs.berkeley.edu/~dawnsong/">Dawn Song</a></td>
       <td><a href="https://www2.eecs.berkeley.edu/Faculty/Homepages/goldwasser.html/">Shafi Goldwasser</a></td>
+      <td><a href="https://arka19.github.io/">Arka Rai Choudhuri<br> (Guest Speaker)</a></td>
     </tr>
     <tr>
       <td>UC Berkeley</td>
       <td>UC Berkeley</td>
+      <td>NTT Research</td>
     </tr>
   </tbody>
 </table>
+
+## Course Staff
+Deevashwer Rathee (Head TA), Elden Ren (Reader)
+
+## Class Time
+* Synchronous lectures: **5:00 PM-6:59 PM PT Tue**, starting Jan 17.  
+* Asynchronous lectures: links to pre-recorded videos will be posted on the course website.
+
+## Enrollment
+This is a variable-unit course. The requirements for each number of units are listed below:
+
+* 2 units: attend lectures + do lab + HW + weekly quizzes
+* 3 units: attend lectures + do lab + HW + weekly quizzes + class project with implementation
+* 4 units: above + class project with implementation and report
+
+If you need a permission code to join the course, please fill out this [form](https://forms.gle/c9o5Fz9inJjPfzJy8) and we’ll get back to you as soon as possible.
+
+## Course Syllabus
+
+<!-- | Date             | Topic                                                                     | Speaker                    |
+| ---------------- | ------------------------------------------------------------------------- | -------------------------- |
+|01/17| Introduction and History of ZKP | Shafi Goldwasser |
+|01/24| Overview of Modern SNARK Constructions | Dan Boneh |
+|01/31| Libraries and Compilers to build ZKP | Alex Ozdemir,<br>Pratyush Mishra |
+|02/07| Interactive Proofs (IP) | Justin Thaler |
+|02/14| Plonk Interactive Oracle Proofs (IOP) | Dan Boneh |
+|02/21| Polynomial Commitments | Yupeng Zhang |
+|02/28| ZKP based on Error-Correcting Codes | Yupeng Zhang |
+|03/07| Transparent ZKP | Justin Thaler |
+|03/14| Linear Probabilistically Checkable Proofs (PCP) | Yupeng Zhang |
+|03/21| Recursive SNARKs, Aggregation and Accumulation | Dan Boneh |
+|04/04| Improving Blockchain Scalability: zkRollup and zkEVM | Invited Speaker TBD |
+|04/11| Privacy-preserving Blockchains | Zac Williamson (Aztec) |
+|04/18| Other Applications of ZKP | Dawn Song |
+|04/25| Theoretical Foundations & Recent Theoretical Advancements | Invited Speaker TBD |
+|05/02| Hardware Acceleration of ZKP | Invited Speaker TBD |
+|05/09| Formal Verification of ZKP | Invited Speaker TBD | -->
+
+<table>
+<thead>
+<tr>
+<th>Date</th>
+<th>Topic</th>
+<th>Speaker</th>
+</tr>
+</thead>
+<tbody>
+<tr> <td colspan=3 align=center> <b>Introduction of ZKP</b> </td> </tr>
+<tr>
+<td>01/17</td>
+<td>Introduction and History of ZKP</td>
+<td>Shafi Goldwasser</td>
+</tr>
+<tr>
+<td>01/24</td>
+<td>Overview of Modern SNARK Constructions</td>
+<td>Dan Boneh</td>
+</tr>
+<tr>
+<td>01/31</td>
+<td>Libraries and Compilers to build ZKP</td>
+<td>Alex Ozdemir,<br>Pratyush Mishra</td>
+</tr>
+<tr> <td colspan=3 align=center> <b>Efficient Constructions of ZKP</b> </td> </tr>
+<!-- <tr> <td colspan=3 align=center> <font size="-0.5">Polynomial IOPs</font> </td> </tr> -->
+<tr>
+<td>02/07</td>
+<td>Interactive Proofs (IP)</td>
+<td>Justin Thaler</td>
+</tr>
+<tr>
+<td>02/14</td>
+<td>Plonk Interactive Oracle Proofs (IOP)</td>
+<td>Dan Boneh</td>
+</tr>
+<!-- <tr> <td colspan=3 align=center> <font size="-0.5">Polynomial Commitments</font> </td> </tr> -->
+<tr>
+<td>02/21</td>
+<td>Polynomial Commitments</td>
+<td>Yupeng Zhang</td>
+</tr>
+<tr>
+<td>02/28</td>
+<td>ZKP based on Error-Correcting Codes</td>
+<td>Yupeng Zhang</td>
+</tr>
+<tr>
+<td>03/07</td>
+<td>Transparent ZKP</td>
+<td>Justin Thaler</td>
+</tr>
+<!-- <tr> <td colspan=3 align=center> <font size="-0.5">Linear PCP + SNARK Compiler + Recursive SNARKs</font> </td> </tr> -->
+<tr>
+<td>03/14</td>
+<td>Linear Probabilistically Checkable Proofs (PCP)</td>
+<td>Yupeng Zhang</td>
+</tr>
+<tr>
+<td>03/21</td>
+<td>Recursive SNARKs, Aggregation and Accumulation</td>
+<td>Dan Boneh</td>
+</tr>
+<tr> <td colspan=3 align=center> <b>Applications of ZKP</b> </td> </tr>
+<tr>
+<td>04/04</td>
+<td>Improving Blockchain Scalability: zkRollup and zkEVM</td>
+<td>Invited Speaker TBD</td>
+</tr>
+<tr>
+<td>04/11</td>
+<td>Privacy-preserving Blockchains</td>
+<td>Zac Williamson (Aztec)</td>
+</tr>
+<tr>
+<td>04/18</td>
+<td>Other Applications of ZKP</td>
+<td>Dawn Song</td>
+</tr>
+<tr> <td colspan=3 align=center> <b>Advanced Topics in ZKP</b> </td> </tr>
+<tr>
+<td>04/25</td>
+<td>Theoretical Foundations &amp; Recent Theoretical Advancements</td>
+<td>Invited Speaker TBD</td>
+</tr>
+<tr>
+<td>05/02</td>
+<td>Hardware Acceleration of ZKP</td>
+<td>Invited Speaker TBD</td>
+</tr>
+<tr>
+<td>05/09</td>
+<td>Formal Verification of ZKP</td>
+<td>Invited Speaker TBD</td>
+</tr>
+</tbody>
+</table>
+
+
+
+## Grading
+
+<table class="center">
+  <tr>
+    <td style="vertical-align: top">
+      <b>2 units</b><br><br>
+      <table>
+        <tr><td>Participation</td><td>20%</td></tr>
+        <tr><td>Quizzes</td><td>30%</td></tr>
+        <tr><td>Lab</td><td>30%</td></tr>
+        <tr><td>HW</td><td>20%</td></tr>
+      </table>
+    </td>
+    <td style="vertical-align: top">
+      <b>3 units</b><br><br>
+      <table>
+        <tr><td>Participation</td><td>10%</td></tr>
+        <tr><td>Quizzes</td><td>10%</td></tr>
+        <tr><td>Lab</td><td>15%</td></tr>
+        <tr><td>HW</td><td>10%</td></tr>
+        <tr><td>Project Proposal</td><td>5%</td></tr>
+        <tr><td>… Milestone</td><td>10%</td></tr>
+        <tr><td>… Presentation</td><td>15%</td></tr>
+        <tr><td>… Report</td><td>25%</td></tr>
+      </table>
+    </td>
+    <td style="vertical-align: top">
+      <b>4 units</b><br><br>
+      <table>
+        <tr><td>Participation</td><td>10%</td></tr>
+        <tr><td>Quizzes</td><td>10%</td></tr>
+        <tr><td>Lab</td><td>10%</td></tr>
+        <tr><td>HW</td><td>10%</td></tr>
+        <tr><td>Project Proposal</td><td>5%</td></tr>
+        <tr><td>… Milestone</td><td>10%</td></tr>
+        <tr><td>… Presentation</td><td>10%</td></tr>
+        <tr><td>… Report</td><td>20%</td></tr>
+        <tr><td>… Implementation</td><td>15%</td></tr>
+      </table>
+    </td>
+  </tr>
+</table>
+
+**Note for CS Ph.D. Students**: On instructor's approval, CS Ph.D. students with sufficient cryptography background and 3-unit enrollment will have the option to supplant their course project with scribes for 3 lectures. The project grade for these students will be determined by the quality of the scribes.
 
 ## Course Description
 This class aims to bring together students and experts in academia and industry to explore Zero-Knowledge Proofs (ZKP). ZKP is a classical cryptographic primitive that ensures the validity of data and computations without sacrificing their confidentiality. It was proposed in the seminal paper by Goldwasser-Micali-Rackoff in 1985. Long considered wildly impractical, ZKPs have seen enormous efficiency improvements over the last decade. This has unlocked entirely new paradigms in the design of distributed and trustless systems, making ZKP one of the most important technologies to the future of blockchains. ZKPs are already being used to build privacy-preserving cryptocurrencies and to improve scalability via zkRollups and zkEVMs, and they stand poised to transform society’s mechanisms for establishing trust and privacy in the coming years and decades.
@@ -40,29 +226,7 @@ This course covers fundamental techniques to build ZKP protocols, tools to imple
 - To help students with developing ZKP systems and applications, we will provide tutorials on the front-end compilers to write ZKP statements. Students can write the computations using such higher-level programming languages, and compile them to low-level representations and run the ZKP protocols using these tools.
 - Finally, we will cover applications of ZKP, including (1) privacy-preserving cryptocurrencies and computations such as Zcash and Zexe; (2) zkRollup and zkEVM that improve the scalability of blockchain; (3) zkBridge to build a secure foundation for multi-chain interoperability; (4) other applications in machine learning, program analysis, and network traffic analysis.
 
-## Class Start Date
-January 17, 2023
-
-<!-- ## TAs
-TBD
-
-## Class Time
-TBD
-
-## Enrollment
-TBD
-
-## Syllabus
-
-| Date             | Topic                                                                     | Speaker                    |
-| ---------------- | ------------------------------------------------------------------------- | -------------------------- |
-|TBD| TBD|TBD|
-
-## Assignment Timeline
-
-TBD
-
-## Grading
+<!-- ## Assignment Timeline
 
 TBD
 
