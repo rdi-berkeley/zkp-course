@@ -187,13 +187,13 @@ If you need a permission code to join the course, please fill out this [form](ht
       <b>3 units</b><br><br>
       <table>
         <tr><td>Participation</td><td>10%</td></tr>
-        <tr><td>Quizzes</td><td>10%</td></tr>
-        <tr><td>Lab</td><td>15%</td></tr>
+        <tr><td>Quizzes</td><td>15%</td></tr>
+        <tr><td>Lab</td><td>10%</td></tr>
         <tr><td>HW</td><td>10%</td></tr>
         <tr><td>Project Proposal</td><td>5%</td></tr>
         <tr><td>… Milestone</td><td>10%</td></tr>
         <tr><td>… Presentation</td><td>15%</td></tr>
-        <tr><td>… Report</td><td>25%</td></tr>
+        <tr><td>… Implementation</td><td>25%</td></tr>
       </table>
     </td>
     <td style="vertical-align: top">
@@ -206,8 +206,8 @@ If you need a permission code to join the course, please fill out this [form](ht
         <tr><td>Project Proposal</td><td>5%</td></tr>
         <tr><td>… Milestone</td><td>10%</td></tr>
         <tr><td>… Presentation</td><td>10%</td></tr>
-        <tr><td>… Report</td><td>20%</td></tr>
-        <tr><td>… Implementation</td><td>15%</td></tr>
+        <tr><td>… Implementation</td><td>20%</td></tr>
+        <tr><td>… Report</td><td>15%</td></tr>
       </table>
     </td>
   </tr>
