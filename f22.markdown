@@ -58,7 +58,7 @@ If you need a permission code to join the course, please fill out this [form](ht
 </tr>
 </thead>
 <tbody>
-<tr> <td colspan=2 align=center> <b>Introduction of ZKP</b> </td> </tr>
+<tr> <td colspan=2 align=center> <b>1. Introduction of ZKP</b> </td> </tr>
 <tr>
 <td>01/17</td>
 <td>Introduction and History of ZKP</td>
@@ -71,8 +71,8 @@ If you need a permission code to join the course, please fill out this [form](ht
 <td>01/31</td>
 <td>Libraries and Compilers to build ZKP</td>
 </tr>
-<tr> <td colspan=2 align=center> <b>Efficient Constructions of ZKP</b> </td> </tr>
-<!-- <tr> <td colspan=3 align=center> <font size="-0.5">Polynomial IOPs</font> </td> </tr> -->
+<tr> <td colspan=2 align=center> <b>2. Efficient Constructions of ZKP</b> </td> </tr>
+<tr> <td colspan=2 align=center> <font size="-0.5" style="font-weight: bolder">2.1. Polynomial IOPs</font> </td> </tr>
 <tr>
 <td>02/07</td>
 <td>Interactive Proofs (IP)</td>
@@ -81,7 +81,7 @@ If you need a permission code to join the course, please fill out this [form](ht
 <td>02/14</td>
 <td>Plonk Interactive Oracle Proofs (IOP)</td>
 </tr>
-<!-- <tr> <td colspan=3 align=center> <font size="-0.5">Polynomial Commitments</font> </td> </tr> -->
+<tr> <td colspan=2 align=center> <font size="-0.5" style="font-weight: bolder">2.2. Polynomial Commitments</font> </td> </tr>
 <tr>
 <td>02/21</td>
 <td>Polynomial Commitments</td>
@@ -94,20 +94,22 @@ If you need a permission code to join the course, please fill out this [form](ht
 <td>03/07</td>
 <td>Transparent ZKP</td>
 </tr>
-<!-- <tr> <td colspan=3 align=center> <font size="-0.5">Linear PCP + SNARK Compiler + Recursive SNARKs</font> </td> </tr> -->
+<tr> <td colspan=2 align=center> <font size="-0.5" style="font-weight: bolder">2.3. Linear PCP + SNARK Compiler</font> </td> </tr>
 <tr>
 <td>03/14</td>
 <td>Linear Probabilistically Checkable Proofs (PCP)</td>
 </tr>
+<tr> <td colspan=2 align=center> <font size="-0.5" style="font-weight: bolder">2.4. Recursive SNARKs</font> </td> </tr>
 <tr>
 <td>03/21</td>
 <td>Recursive SNARKs, Aggregation and Accumulation</td>
 </tr>
-<tr>
+<tr> <td colspan=2 align=center> <font size="-0.5" style="font-weight: bolder">Spring Break (03/27 - 03/31)</font> </td> </tr>
+<!-- <tr>
 <td>03/28</td>
 <td>No Class (Spring Break)</td>
-</tr>
-<tr> <td colspan=2 align=center> <b>Applications of ZKP</b> </td> </tr>
+</tr> -->
+<tr> <td colspan=2 align=center> <b>3. Applications of ZKP</b> </td> </tr>
 <tr>
 <td>04/04</td>
 <td>Improving Blockchain Scalability: zkRollup and zkEVM</td>
@@ -120,7 +122,7 @@ If you need a permission code to join the course, please fill out this [form](ht
 <td>04/18</td>
 <td>Other Applications of ZKP</td>
 </tr>
-<tr> <td colspan=2 align=center> <b>Advanced Topics in ZKP</b> </td> </tr>
+<tr> <td colspan=2 align=center> <b>4. Advanced Topics in ZKP</b> </td> </tr>
 <tr>
 <td>04/25</td>
 <td>Theoretical Foundations &amp; Recent Theoretical Advancements</td>
