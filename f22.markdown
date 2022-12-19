@@ -95,7 +95,7 @@ If you need a permission code to join the course, please fill out this [form](ht
 <td>03/07</td>
 <td>Transparent ZKP</td>
 </tr>
-<tr> <td colspan=2 align=center> <font size="-0.5" style="font-weight: bolder">2.3. Linear PCP + SNARK Compiler</font> </td> </tr>
+<tr> <td colspan=2 align=center> <font size="-0.5" style="font-weight: bolder">2.3. Linear PCP</font> </td> </tr>
 <tr>
 <td>03/14</td>
 <td>Linear Probabilistically Checkable Proofs (PCP)</td>
