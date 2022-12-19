@@ -106,10 +106,6 @@ If you need a permission code to join the course, please fill out this [form](ht
 <td>Recursive SNARKs, Aggregation and Accumulation</td>
 </tr>
 <tr> <td colspan=2 align=center> <font size="-0.5" style="font-weight: bolder">Spring Break (03/27 - 03/31)</font> </td> </tr>
-<!-- <tr>
-<td>03/28</td>
-<td>No Class (Spring Break)</td>
-</tr> -->
 <tr> <td colspan=2 align=center> <b>3. Applications of ZKP</b> </td> </tr>
 <tr>
 <td>04/04</td>
