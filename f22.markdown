@@ -85,7 +85,7 @@ If you need a permission code to join the course, please fill out this [form](ht
 <tr> <td colspan=2 align=center> <font size="-0.5" style="font-weight: bolder">2.2. Polynomial Commitments</font> </td> </tr>
 <tr>
 <td>02/21</td>
-<td>Polynomial Commitments</td>
+<td>Discrete-log-based Polynomial Commitments</td>
 </tr>
 <tr>
 <td>02/28</td>
