@@ -1,6 +1,6 @@
 ---
-layout: blank
-title: "ZKP"
+layout: default
+title: "Zero Knowledge Proofs"
 permalink: /s23_syllabus
 ---
 
