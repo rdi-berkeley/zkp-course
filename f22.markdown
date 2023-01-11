@@ -11,7 +11,7 @@ permalink: /f22
 
 ## Instructors
 
-<table style="table-layout: fixed; font-size: 88%; align: middle;">
+<table style="table-layout: fixed; font-size: 88%; align: middle;" summary="table containing pictures of the instructors and links to their personal websites">
   <thead>
     <tr>
       <th style="width: 33%;"><img style="object-fit:cover" width=150 height=200 src="{{site.baseurl}}/assets/dawn-berkeley.jpg" alt="Dawn Song"></th>
@@ -51,7 +51,7 @@ If you need a permission code to join the course, please fill out this [form](ht
 
 ## Course Syllabus
 
-<table style="table-layout: fixed; font-size: 88%;">
+<table style="table-layout: fixed; font-size: 88%;" summary="Describes schedule of the course, which covers 4 sections: Introduction of ZKP, Efficient Constructions of ZKP; Applications of ZKP; Advanced Topics in ZKP.">
    <thead>
       <tr>
          <th>Date</th>
