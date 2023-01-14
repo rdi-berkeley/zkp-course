@@ -34,10 +34,11 @@ permalink: /f22
 </table>
 
 ## Course Staff
-Deevashwer Rathee (Head TA), Elden Ren (Reader)
+* **TAs**: Deevashwer Rathee (Head TA), Guru Vamsi Policharla
+* **Readers**: Elden Ren, Vikhyath Mondreti
 
 ## Class Time
-* Synchronous lectures: **5:00 PM-6:59 PM PT Tue**, starting Jan 17.  
+* Synchronous lectures: **5:00 PM-6:59 PM PT Tue in Soda 306**, starting Jan 17.  
 * Asynchronous lectures: links to pre-recorded videos will be posted on the course website.
 
 ## Enrollment
