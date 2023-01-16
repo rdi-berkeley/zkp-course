@@ -9,8 +9,10 @@ permalink: /f22
 <!-- - Zoom link (TBD) -->
 <!-- - To sign up for the course, please fill in this [form](https://docs.google.com/forms/d/e/1FAIpQLSepJTYKc9iJycBsnywFCo9PLIq1SjbSsWIBlqfWAZGPXHrk3Q/viewform). -->
 
-
-For general course content related questions, please join our [discord](https://discord.gg/erXuFSxJ).
+- [Zoom link](https://berkeley.zoom.us/j/96029091565?pwd=ZlIxMTgvbDF6MHJTK1NQSGs2Q3FxQT09): [ <img src="./assets/meetings.png" alt="link" width="30" style="vertical-align: middle"/> ](https://berkeley.zoom.us/j/96029091565?pwd=ZlIxMTgvbDF6MHJTK1NQSGs2Q3FxQT09) (Password: 826181)
+- For general course content related questions, please join our [edstem](https://edstem.org/us/courses/34475/discussion/) and [discord](https://discord.gg/erXuFSxJ).
+- Do not email the course staff or TAs. For private matters, post a private question on edstem and make sure it is visible to all teaching staff.
+- Check Spam / Promotions to ensure course emails are not missed.
 
 ## Instructors
 
