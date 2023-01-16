@@ -9,8 +9,8 @@ permalink: /f22
 <!-- - Zoom link (TBD) -->
 <!-- - To sign up for the course, please fill in this [form](https://docs.google.com/forms/d/e/1FAIpQLSepJTYKc9iJycBsnywFCo9PLIq1SjbSsWIBlqfWAZGPXHrk3Q/viewform). -->
 
-- [Add to your calendar](https://calendar.google.com/calendar/embed?src=c_9a6c323b6f09f1f218fc89634a55572426f81c480877866ad1688540e2771c5b%40group.calendar.google.com&ctz=America%2FLos_Angeles)
-- For general course content related questions, please join our [discord](https://discord.gg/erXuFSxJ).
+
+For general course content related questions, please join our [discord](https://discord.gg/erXuFSxJ).
 
 ## Instructors
 
@@ -41,7 +41,7 @@ permalink: /f22
 * **Readers**: Elden Ren, Vikhyath Mondreti
 
 ## Class Time
-* Synchronous lectures: **5:00 PM-6:59 PM PT Tue in Soda 306**, starting Jan 17.  
+* Synchronous lectures: **5:00 PM-6:59 PM PT Tue in Soda 306**, starting Jan 17 [[Add to your calendar](https://calendar.google.com/calendar/embed?src=c_9a6c323b6f09f1f218fc89634a55572426f81c480877866ad1688540e2771c5b%40group.calendar.google.com&ctz=America%2FLos_Angeles)]
 * Asynchronous lectures: links to pre-recorded videos will be posted on the course website.
 
 ## Enrollment
