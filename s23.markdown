@@ -2,6 +2,8 @@
 layout: default
 title: "Zero Knowledge Proofs"
 permalink: /s23
+redirect_from:
+  - /
 ---
 
 # CS294/194-238 Zero Knowledge Proofs
