@@ -11,7 +11,7 @@ permalink: /f22
 
 - [Zoom link](https://berkeley.zoom.us/j/96029091565?pwd=ZlIxMTgvbDF6MHJTK1NQSGs2Q3FxQT09): [ <img src="./assets/meetings.png" alt="link" width="30" style="vertical-align: middle"/> ](https://berkeley.zoom.us/j/96029091565?pwd=ZlIxMTgvbDF6MHJTK1NQSGs2Q3FxQT09) (Password: 826181)
 - For general course content related questions, please join our [edstem](https://edstem.org/us/courses/34475/discussion/) and [discord](https://discord.gg/erXuFSxJ).
-- Do not email the course staff or TAs. For private matters, post a private question on edstem and make sure it is visible to all teaching staff.
+- <span style="color: red;"><b>Do not email the course staff or TAs. For private matters, post a private question on edstem and make sure it is visible to all teaching staff.</b></span>
 - Check Spam / Promotions to ensure course emails are not missed.
 
 ## Instructors
