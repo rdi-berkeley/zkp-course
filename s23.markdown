@@ -50,6 +50,7 @@ redirect_from:
 ## Enrollment
 This is a variable-unit course. The requirements for each number of units are listed below:
 
+* 1 unit: attend lectures + article + weekly quizzes
 * 2 units: attend lectures + do lab + HW + weekly quizzes
 * 3 units: requirements for 2 units + class project with implementation and short report
 * 4 units: requirements for 2 units + class project with broader scope, implementation and a longer workshop-style report
@@ -167,7 +168,7 @@ If you need a permission code to join the course, please fill out this [form](ht
 <table class="center">
   <tr>
     <td style="vertical-align: top">
-      <b>1 units</b><br><br>
+      <b>1 unit</b><br><br>
       <table>
         <tr><td>Participation</td><td>50%</td></tr>
         <tr><td>Quizzes</td><td>50%</td></tr>
