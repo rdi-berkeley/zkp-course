@@ -206,6 +206,10 @@ If you need a permission code to join the course, please fill out this [form](ht
   </tr>
 </table>
 
+### Quizzes
+
+All quizzes are released in parallel with (or shortly after) the corresponding lecture and will be due midnight the following Tuesday. Please remember to complete the quiz each week. Although it's graded on completion, we encourage you to do your best. The questions are all multiple-choice.
+
 
 ## Course Description
 This class aims to bring together students and experts in academia and industry to explore Zero-Knowledge Proofs (ZKP). ZKP is a classical cryptographic primitive that ensures the validity of data and computations without sacrificing their confidentiality. It was proposed in the seminal paper by Goldwasser-Micali-Rackoff in 1985. Long considered wildly impractical, ZKPs have seen enormous efficiency improvements over the last decade. This has unlocked entirely new paradigms in the design of distributed and trustless systems, making ZKP one of the most important technologies to the future of blockchains. ZKPs are already being used to build privacy-preserving cryptocurrencies and to improve scalability via zkRollups and zkEVMs, and they stand poised to transform society’s mechanisms for establishing trust and privacy in the coming years and decades.
