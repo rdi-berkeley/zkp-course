@@ -167,6 +167,13 @@ If you need a permission code to join the course, please fill out this [form](ht
 <table class="center">
   <tr>
     <td style="vertical-align: top">
+      <b>1 units</b><br><br>
+      <table>
+        <tr><td>Participation</td><td>50%</td></tr>
+        <tr><td>Quizzes</td><td>50%</td></tr>
+      </table>
+    </td>
+    <td style="vertical-align: top">
       <b>2 units</b><br><br>
       <table>
         <tr><td>Participation</td><td>20%</td></tr>
@@ -206,9 +213,28 @@ If you need a permission code to join the course, please fill out this [form](ht
   </tr>
 </table>
 
-### Quizzes
+### Quiz
 
 All quizzes are released in parallel with (or shortly after) the corresponding lecture and will be due midnight the following Tuesday. Please remember to complete the quiz each week. Although it's graded on completion, we encourage you to do your best. The questions are all multiple-choice.
+
+### Group project 
+
+Students will be completing an open-ended research project culminating in a presentation and a workshop-style paper submitted at the end of the semester. You will choose an area of research in ZKP that you wish to explore and are encouraged to read related papers in that area. You will then identify an area that you believe needs improvement or merits further research and build systems and/or conduct experiments to further the state of the art within your chosen field. Students are welcome to choose their own topics, but we’ll also provide a list of topic suggestions that you can take inspiration from if you wish. More details TBD.
+
+### Participation 
+
+More on this to be announced on Ed. 
+
+**Students taking 1 unit** should also write an article (at least 2 pages) about the relevant topic covered in this course or your experience of the course posted online, and optionally tweet about the article. The article should be finished by May 10th.
+* for example a blog post on:
+            * Summarizing information from certain lectures
+            * Specific zk-proof protocols
+            * Applications of zk-proofs such as privacy or blockchain scaling.
+        * The article’s marking criteria can be found below:
+            * Understanding (3 marks): displays breadth/depth of understanding of the topic.
+            * Importance (2 marks): content conveys an important aspect of zk-proofs.
+            * Clarity (3 marks): explains complex concepts simply, clearly, and accurately.
+            * References (2 marks): cites the relevant lecture and reference material such as research papers properly.
 
 
 ## Course Description
