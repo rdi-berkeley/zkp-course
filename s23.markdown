@@ -71,7 +71,7 @@ If you need a permission code to join the course, please fill out this [form](ht
         <td>01/17</td>
         <td> Introduction and History of ZKP | 
           <a href = "https://www.youtube.com/watch?v=uchjTIlPzFo"> Lecture </a>
-          | <a href ="https://forms.gle/Td2Kw3Btp9XBHw846"> Quiz </a>
+          | <a href ="https://forms.gle/CnjXgBkFmYM5PevL6"> Quiz </a>
           <br>
           <br>
           <b> Readings </b>
