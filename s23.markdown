@@ -68,12 +68,25 @@ If you need a permission code to join the course, please fill out this [form](ht
    </thead>
    <tbody>
       <tr>
-         <td colspan=2 align=center> <b>1. Introduction of ZKP</b> </td>
+        <td>01/17</td>
+        <td>
+          <a href = "https://www.youtube.com/watch?v=uchjTIlPzFo"> Introduction and History of ZKP </a>
+          <ul>
+            <li><a href= "https://people.csail.mit.edu/silvio/Selected%20Scientific%20Papers/Proof%20Systems/The_Knowledge_Complexity_Of_Interactive_Proof_Systems.pdf">[Goldwasser-Micali-Rackoff’89] Knowledge Complexity of Interactive Proof Systems</a></li>
+            <li><a href= "https://link.springer.com/chapter/10.1007/3-540-47721-7_11">[Goldreich-Micali-Wigderson’86] How to prove all NP-statements in zero-knowledge, and a methodology of cryptographic protocol design</a></li>
+            <li><a href= "https://link.springer.com/chapter/10.1007/3-540-47721-7_12">[Fiat-Shamir’86] How To Prove Yourself: Practical Solutions to Identification and Signature Problems</a></li>
+            <li><a href= "https://www.wisdom.weizmann.ac.il/~oded/PSX/pok.pdf">[Bellare-Goldreich’92] On Defining Proofs of Knowledge</a></li>
+          </ul>
+          <b>Other Helpful Resources</b>
+          <ul>
+            <li><a href= "https://www.youtube.com/watch?v=6uGimDYZPMw">Introduction to Zero Knowledge - Alon Rosen</a></li>
+            <li><a href= "https://www.youtube.com/watch?v=RvGsjnoYRRg">Proofs of Knowledge - Yehuda lindell</a></li>
+            <li><a href= "https://www.wisdom.weizmann.ac.il/~naor/PAPERS/SUDOKU_DEMO/">Demonstration of Zero-Knowledge Proof for Sudoku Using Standard Playing Cards</a></li>
+            <li><a href= "https://files.boazbarak.org/crypto/lec_14_zero_knowledge.pdf">Boaz Barak - Zero Knowledge</a></li>
+          </ul>
+        </td>
       </tr>
-      <tr>
-         <td>01/17</td>
-         <td> <a href = "https://www.youtube.com/watch?v=uchjTIlPzFo"> Introduction and History of ZKP </a> </td>
-      </tr>
+
       <tr>
          <td>01/24</td>
          <td>Overview of Modern SNARK Constructions</td>
