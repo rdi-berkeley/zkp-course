@@ -72,6 +72,7 @@ If you need a permission code to join the course, please fill out this [form](ht
         <td> Introduction and History of ZKP | 
           <a href = "https://www.youtube.com/watch?v=uchjTIlPzFo"> Lecture </a>
           | <a href ="https://forms.gle/CnjXgBkFmYM5PevL6"> Quiz </a>
+          | <a href="{{site.baseurl}}/assets/Lecture1-2023-slides.pdf"> Slides </a>
           <br>
           <br>
           <b> Readings </b>
