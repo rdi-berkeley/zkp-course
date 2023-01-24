@@ -188,7 +188,8 @@ If you need a permission code to join the course, please fill out this [form](ht
     <td style="vertical-align: top">
       <b>1 unit</b><br><br>
       <table>
-        <tr><td>Participation</td><td>50%</td></tr>
+        <tr><td>Article</td><td>20%</td></tr>
+        <tr><td>Attendance</td><td>30%</td></tr>
         <tr><td>Quizzes</td><td>50%</td></tr>
       </table>
     </td>
