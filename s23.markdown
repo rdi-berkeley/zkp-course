@@ -95,8 +95,8 @@ If you need a permission code to join the course, please fill out this [form](ht
       <tr>
          <td>01/24</td>
          <td>Overview of Modern SNARK Constructions 
-         | <a href ="https://forms.gle/jyRJmNttcd2knFXz9"> Quiz </a>
         | <a href = "https://youtube.com/playlist?list=PLS01nW3Rtgoo_0Y-X5bQ32SyDbMiGFqee"> Lecture </a>
+        | <a href ="https://forms.gle/jyRJmNttcd2knFXz9"> Quiz </a>
         | <a href="{{site.baseurl}}/assets/Lecture2-2023.pdf"> Slides </a>
         </td>
       </tr>
