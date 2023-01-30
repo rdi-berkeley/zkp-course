@@ -106,7 +106,7 @@ If you need a permission code to join the course, please fill out this [form](ht
             <li><a href= "https://www.cs.ubc.ca/~nickhar/W12/Lecture9Notes.pdf">Schwartz-Zippel Lemma - Section 1</a></li>
             <li><a href= "https://www.di.ens.fr/~nitulesc/files/Survey-SNARKs.pdf">Anca Nitulescu - zk-SNARKs: A Gentle Introduction</a></li>
             <li><a href= "https://medium.com/@boneh/using-zk-proofs-to-fight-disinformation-17e7d57fe52f">Using ZK Proofs to Fight Disinformation</a></li>
-            <li><a href= "https://a16zcrypto.com/zero-knowledge-canon">Zero Knowledge canon</a></li>
+            <li><a href= "https://a16zcrypto.com/zero-knowledge-canon">Zero Knowledge Canon</a></li>
           </ul>
         </td>
       </tr>
