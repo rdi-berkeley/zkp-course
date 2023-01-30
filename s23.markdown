@@ -165,15 +165,15 @@ If you need a permission code to join the course, please fill out this [form](ht
       </tr>
       <tr>
          <td>04/04</td>
-         <td>Improving Blockchain Scalability: zkRollup and zkEVM</td>
+         <td>Overview of Applications of ZKP</td>
       </tr>
       <tr>
          <td>04/11</td>
-         <td>Privacy-preserving Blockchains</td>
+         <td>Improving Blockchain Scalability: zkRollup and zkEVM</td>
       </tr>
       <tr>
          <td>04/18</td>
-         <td>Other Applications of ZKP</td>
+         <td>Privacy-preserving Blockchains</td>
       </tr>
       <tr>
          <td colspan=2 align=center> <b>4. Advanced Topics in ZKP</b> </td>
