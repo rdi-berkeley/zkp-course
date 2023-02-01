@@ -113,8 +113,17 @@ If you need a permission code to join the course, please fill out this [form](ht
       <tr>
          <td>01/31</td>
          <td>Libraries and Compilers to build ZKP
-        | <a href="https://youtube.com/playlist?list=PLS01nW3RtgoqqvF39f11ncNAClgSLPlXD"> Lecture </a>
-             | <a href = "{{site.baseurl}}/assets/lecture3-2023.pdf"> Slides </a>
+          | <a href="https://youtube.com/playlist?list=PLS01nW3RtgoqqvF39f11ncNAClgSLPlXD"> Lecture </a>
+          | <a href = "{{site.baseurl}}/assets/lecture3-2023.pdf"> Slides </a>
+           <br>
+           <br>
+          <b>Resources</b>
+            <ul>
+              <li><a href="https://github.com/rdi-berkeley/zkp-course-lecture3-code">Code from Lecture</a></li>
+              <li><a href="https://docs.circom.io/">circom documentation</a></li>
+              <li><a href="https://github.com/arkworks-rs/r1cs-tutorial/">arkworks tutorial</a></li>
+              <li><a href="https://zokrates.github.io/">ZoKrates documentation</a></li>
+            </ul>
         </td>
       </tr>
       <tr>
