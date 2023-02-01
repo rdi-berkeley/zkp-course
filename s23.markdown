@@ -120,8 +120,8 @@ If you need a permission code to join the course, please fill out this [form](ht
           <b>Resources</b>
             <ul>
               <li><a href="https://github.com/rdi-berkeley/zkp-course-lecture3-code">Code from Lecture</a></li>
-              <li><a href="https://docs.circom.io/">circom documentation</a></li>
-              <li><a href="https://github.com/arkworks-rs/r1cs-tutorial/">arkworks tutorial</a></li>
+              <li><a href="https://docs.circom.io/">Circom Documentation</a></li>
+              <li><a href="https://github.com/arkworks-rs/r1cs-tutorial/">Arkworks Tutorial</a></li>
               <li><a href="https://zokrates.github.io/">ZoKrates documentation</a></li>
             </ul>
         </td>
