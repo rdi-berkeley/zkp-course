@@ -139,7 +139,9 @@ If you need a permission code to join the course, please fill out this [form](ht
       </tr>
       <tr>
          <td>02/07</td>
-         <td>Interactive Proofs (IP)</td>
+         <td>Interactive Proofs (IP)
+        | <a href = "https://youtube.com/playlist?list=PLS01nW3RtgopePvLcZgMJK8gC5trUWVsT"> Playlist </a> 
+        | <a href = "{{site.baseurl}}/assets/lecture4.pdf"> Slides </a></td>
       </tr>
       <tr>
          <td>02/14</td>
