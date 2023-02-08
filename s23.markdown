@@ -140,26 +140,27 @@ If you need a permission code to join the course, please fill out this [form](ht
       <tr>
          <td>02/07</td>
          <td>Interactive Proofs (IP)
-           | <a href = "https://youtu.be/4018OYyoAf8"> Lecture </a>
-           | <a href = "https://youtube.com/playlist?list=PLS01nW3RtgopePvLcZgMJK8gC5trUWVsT"> Playlist </a> 
-           | <a href = "{{site.baseurl}}/assets/lecture4.pdf"> Slides </a></td>
-        <br>
-        <br>
-        <b>Readings</b>
-            <ul>
-            <li><a href="https://theory.cs.princeton.edu/complexity/book.pdf">Interactive Proofs and the Sum-Check Protocol</a></li>
-            <li><a href="https://people.cs.georgetown.edu/jthaler/ProofsArgsAndZK.pdf">Chapters 3 and 4 of [Thaler]</a></li>
-            <li><a href="https://en.wikipedia.org/wiki/Merkle_tree">Merkle Trees</a></li>
-            <li><a href="https://eprint.iacr.org/2014/846.pdf">Sum-Check-Based Polynomial IOPs for Circuit-SAT</a></li>
-          </ul>
-          <b>Other Helpful Resources</b>
-          <ul>
-            <li><a href="https://eprint.iacr.org/2019/550">Spartan</a></li>
-            <li><a href="https://eprint.iacr.org/2017/1132">Hyrax</a></li>
-            <li><a href="https://faculty.cc.gatech.edu/~genkin/papers/vsql.pdf">vSQL</a></li>
-            <li><a href="https://eprint.iacr.org/2019/317.pdf">Libra</a></li>
-          </ul>
-        </td>
+       | <a href = "https://youtu.be/4018OYyoAf8"> Lecture </a>
+       | <a href = "https://youtube.com/playlist?list=PLS01nW3RtgopePvLcZgMJK8gC5trUWVsT"> Playlist </a> 
+       | <a href = "{{site.baseurl}}/assets/lecture4.pdf"> Slides </a>
+       <br>
+       <br> 
+       
+       <b>Readings</b>
+        <ul>
+        <li><a href="https://theory.cs.princeton.edu/complexity/book.pdf">Interactive Proofs and the Sum-Check Protocol</a></li>
+        <li><a href="https://people.cs.georgetown.edu/jthaler/ProofsArgsAndZK.pdf">Chapters 3 and 4 of [Thaler]</a></li>
+        <li><a href="https://en.wikipedia.org/wiki/Merkle_tree">Merkle Trees</a></li>
+        <li><a href="https://eprint.iacr.org/2014/846.pdf">Sum-Check-Based Polynomial IOPs for Circuit-SAT</a></li>
+      </ul>
+      <b>Other Helpful Resources</b>
+      <ul>
+        <li><a href="https://eprint.iacr.org/2019/550">Spartan</a></li>
+        <li><a href="https://eprint.iacr.org/2017/1132">Hyrax</a></li>
+        <li><a href="https://faculty.cc.gatech.edu/~genkin/papers/vsql.pdf">vSQL</a></li>
+        <li><a href="https://eprint.iacr.org/2019/317.pdf">Libra</a></li>
+      </ul>
+    </td>
       </tr>
       <tr>
          <td>02/14</td>
