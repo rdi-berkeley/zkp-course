@@ -141,7 +141,8 @@ If you need a permission code to join the course, please fill out this [form](ht
          <td>02/07</td>
          <td>Interactive Proofs (IP)
        | <a href = "https://youtu.be/4018OYyoAf8"> Lecture </a>
-       | <a href = "https://youtube.com/playlist?list=PLS01nW3RtgopePvLcZgMJK8gC5trUWVsT"> Playlist </a> 
+       | <a href = "https://youtube.com/playlist?list=PLS01nW3RtgopePvLcZgMJK8gC5trUWVsT"> Playlist </a>
+       | <a href = "https://forms.gle/NcqyqsqAodu8HAPE8"> Quiz </a>
        | <a href = "{{site.baseurl}}/assets/lecture4.pdf"> Slides </a>
        <br>
        <br> 
