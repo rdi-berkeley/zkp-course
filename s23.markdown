@@ -288,7 +288,7 @@ If you need a permission code to join the course, please fill out this [form](ht
 
 ### Quiz
 
-All quizzes are released in parallel with (or shortly after) the corresponding lecture and will be due midnight the following Tuesday. Please remember to complete the quiz each week. Although it's graded on completion, we encourage you to do your best. The questions are all multiple-choice.
+All quizzes are released in parallel with (or shortly after) the corresponding lecture and will be due midnight the following Tuesday. Please remember to complete the quiz each week. Although it's <b> graded on completion </b>, we encourage you to do your best. The questions are all multiple-choice.
 
 ### Group project 
 
