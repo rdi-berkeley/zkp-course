@@ -165,7 +165,22 @@ If you need a permission code to join the course, please fill out this [form](ht
       </tr>
       <tr>
          <td>02/14</td>
-         <td>Plonk Interactive Oracle Proofs (IOP)</td>
+         <td>Plonk Interactive Oracle Proofs (IOP)
+           | <a href = "https://youtu.be/A0oZVEXav24"> Lecture </a>
+           | <a href = "https://youtube.com/playlist?list=PLS01nW3Rtgopdkrlu2-Lqgg7MKIS2vv2J"> Playlist </a> 
+           | <a href = "{{site.baseurl}}/assets/lecture5.pdf"> Slides </a>
+           <br>
+           <br> 
+           
+           <b>Readings</b>
+              <ul>
+              <li><a href="https://www.iacr.org/archive/asiacrypt2010/6477178/6477178.pdf">Constant-Size Commitments to Polynomials and Their Applications</a></li>
+              <li><a href="https://alinush.github.io/2021/06/17/Feist-Khovratovich-technique-for-computing-KZG-proofs-fast.html">Feist-Khovratovich technique for computing KZG proofs fast</a></li>
+              <li><a href="https://eprint.iacr.org/2020/1274">Dory: Efficient, Transparent arguments for Generalised Inner Products and Polynomial Commitments</a></li>
+              <li><a href="https://eprint.iacr.org/2019/953">PLONK: Permutations over Lagrange-bases for Oecumenical Noninteractive arguments of Knowledge</a></li>
+              <li><a href="https://eprint.iacr.org/2022/1355">HyperPlonk: Plonk with Linear-Time Prover and High-Degree Custom Gates</a></li>
+              <li><a href="https://zcash.github.io/halo2/concepts/arithmetization.html">PLONKish Arithmetization</a></li>
+              </ul></td>
       </tr>
       <tr>
          <td colspan=2 align=center> <font size="-0.5" style="font-weight: bolder">2.2. Polynomial Commitments</font> </td>
