@@ -167,7 +167,8 @@ If you need a permission code to join the course, please fill out this [form](ht
          <td>02/14</td>
          <td>Plonk Interactive Oracle Proofs (IOP)
            | <a href = "https://youtu.be/A0oZVEXav24"> Lecture </a>
-           | <a href = "https://youtube.com/playlist?list=PLS01nW3Rtgopdkrlu2-Lqgg7MKIS2vv2J"> Playlist </a> 
+           | <a href = "https://youtube.com/playlist?list=PLS01nW3Rtgopdkrlu2-Lqgg7MKIS2vv2J"> Playlist </a>
+           | <a href = "https://forms.gle/MrWBrWNjtHWaNsDBA"> Quiz </a>
            | <a href = "{{site.baseurl}}/assets/lecture5-2023.pdf"> Slides </a>
            <br>
            <br> 
