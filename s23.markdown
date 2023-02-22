@@ -188,7 +188,23 @@ If you need a permission code to join the course, please fill out this [form](ht
       </tr>
       <tr>
          <td>02/21</td>
-         <td>Discrete-log-based Polynomial Commitments</td>
+         <td>Discrete-log-based Polynomial Commitments
+        | <a href = "https://youtu.be/WyT5KkKBJUw"> Lecture </a>
+           | <a href = "https://youtube.com/playlist?list=PLS01nW3RtgopRnH84Omx0C4yZo75uSHWO"> Playlist </a>
+           | <a href = "{{site.baseurl}}/assets/lecture6.pdf"> Slides </a>
+           
+           <br>
+           <br>
+           
+           <b>Readings</b>
+            <ul>
+            <li><a href="https://eprint.iacr.org/2017/1146">A Zero-Knowledge Version of vSQL</a></li>
+            <li><a href="https://eprint.iacr.org/2017/1066.pdf">Bulletproofs: Short Proofs for Confidential Transactions and More</a></li>
+            <li>Last Week's Readings on Constant-Sized Polynomial Commitments</li>
+            </ul>
+           
+        </td>
+    
       </tr>
       <tr>
          <td>02/28</td>
