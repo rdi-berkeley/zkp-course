@@ -191,6 +191,7 @@ If you need a permission code to join the course, please fill out this [form](ht
          <td>Discrete-log-based Polynomial Commitments
         | <a href = "https://youtu.be/WyT5KkKBJUw"> Lecture </a>
            | <a href = "https://youtube.com/playlist?list=PLS01nW3RtgopRnH84Omx0C4yZo75uSHWO"> Playlist </a>
+           | <a href = "https://forms.gle/uiiPZQjEqEmbSW437"> Quiz </a>
            | <a href = "{{site.baseurl}}/assets/lecture6.pdf"> Slides </a>
            
            <br>
