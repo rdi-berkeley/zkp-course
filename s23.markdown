@@ -347,7 +347,7 @@ The article’s marking criteria can be found below:
 | Assignment            | Released  | Deadline
 | :-- | :-- | :--
 | Group formation      | 01/23     | 02/06
-| Project proposal    | 02/07     | ~~02/27~~ 03/03
+| [Project proposal] (https://docs.google.com/forms/d/e/1FAIpQLSdxWy25zna2baS3vYmUGpixeHG2CLn0XsgXwOYls6cUBnD_Ww/viewform)    | 02/07     | ~~02/27~~ 03/03
 | [Lab](https://github.com/rdi-berkeley/zkp-mooc-lab)  | 02/28     | 03/13
 | Project milestone     | 03/21     | 03/26
 | HW     | 04/04     | 04/17
