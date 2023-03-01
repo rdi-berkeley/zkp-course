@@ -208,7 +208,21 @@ If you need a permission code to join the course, please fill out this [form](ht
       </tr>
       <tr>
          <td>02/28</td>
-         <td>ZKP based on Error-Correcting Codes</td>
+         <td>ZKP based on Error-Correcting Codes
+        | <a href = "https://youtu.be/1S7ZjqG9uyI"> Lecture </a> 
+           | <a href = "https://youtube.com/playlist?list=PLS01nW3RtgopEpcPnXiXsHPO8HsaGUgmd"> Playlist </a> 
+             | <a href = "{{site.baseurl}}/assets/lecture7.pdf"> Slides </a>
+             
+             <br> 
+             <br> 
+             
+             <b>Readings</b>
+
+              <ul>
+                  <li><a href="https://acmccs.github.io/papers/p2087-amesA.pdf">Ligero: Lightweight Sublinear Arguments Without a Trusted Setup</a></li>
+                  <li><a href="https://eprint.iacr.org/2022/1010">Orion: Zero Knowledge Proof with Linear Prover Time</a></li>
+              </ul>
+        </td>
       </tr>
       <tr>
          <td>03/07</td>
