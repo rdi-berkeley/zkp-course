@@ -216,12 +216,13 @@ If you need a permission code to join the course, please fill out this [form](ht
              <br> 
              <br> 
              
-             <b>Readings</b>
+            <b>Readings</b>
 
-              <ul>
-                  <li><a href="https://acmccs.github.io/papers/p2087-amesA.pdf">Ligero: Lightweight Sublinear Arguments Without a Trusted Setup</a></li>
-                  <li><a href="https://eprint.iacr.org/2022/1010">Orion: Zero Knowledge Proof with Linear Prover Time</a></li>
-              </ul>
+            <ul>
+                <li><a href="https://acmccs.github.io/papers/p2087-amesA.pdf">Ligero: Lightweight Sublinear Arguments Without a Trusted Setup</a></li>
+                <li><a href="https://eprint.iacr.org/2022/1010">Orion: Zero Knowledge Proof with Linear Prover Time</a></li>
+                <li><a href="https://eprint.iacr.org/2021/1043">Brakedown: Linear-time and post-quantum SNARKs for R1CS</a></li>
+            </ul>
         </td>
       </tr>
       <tr>
