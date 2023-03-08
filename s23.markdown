@@ -239,10 +239,10 @@ If you need a permission code to join the course, please fill out this [form](ht
              <b>Readings</b>
 
                 <ul>
-                <li><a href="https://eccc.weizmann.ac.il/report/2017/134/">FRI paper</a></li>
-                <li><a href="https://eprint.iacr.org/2020/654.pdf">Best existing soundness analysis of FRI</a></li>
-                <li><a href="https://eprint.iacr.org/2019/1020">Polynomial commitments from FRI</a></li>
-                <li><a href="https://eprint.iacr.org/2018/1004.pdf">Round-by-round soundness, Fiat-Shamir, and sum-check</a></li>
+                <li><a href="https://eccc.weizmann.ac.il/report/2017/134/">FRI Paper</a></li>
+                <li><a href="https://eprint.iacr.org/2020/654.pdf">Best Existing Soundness Analysis of FRI</a></li>
+                <li><a href="https://eprint.iacr.org/2019/1020">Polynomial Commitments from FRI</a></li>
+                <li><a href="https://eprint.iacr.org/2018/1004.pdf">Round-by-round Soundness, Fiat-Shamir, and Sum-check</a></li>
                 </ul>
           
           </td>
