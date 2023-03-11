@@ -231,6 +231,7 @@ If you need a permission code to join the course, please fill out this [form](ht
         <td>Transparent ZKP
           | <a href = "https://youtu.be/A3edAQDPnDY"> Lecture </a> 
            | <a href = "https://youtube.com/playlist?list=PLS01nW3RtgorRZsBnqch6gGBStZB9VVrM"> Playlist </a>
+          | <a href = "https://forms.gle/fXpx8HhgmbweLJQu9"> Quiz </a>
              | <a href = "{{site.baseurl}}/assets/lecture8.pdf"> Slides </a>
           
           <br>
