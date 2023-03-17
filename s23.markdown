@@ -257,6 +257,7 @@ If you need a permission code to join the course, please fill out this [form](ht
           <td>Linear Probabilistically Checkable Proofs (PCP)
           | <a href = "https://youtu.be/I7TXIHXamwM"> Lecture </a> 
            | <a href = "https://youtube.com/playlist?list=PLS01nW3RtgorEgSixlZA2rJ-2q7_eAKe3"> Playlist </a>
+            | <a href = "https://forms.gle/bCpdFz1QbdU5jEwR9"> Quiz </a>
              | <a href = "{{site.baseurl}}/assets/lecture9.pdf"> Slides </a>
           </td>
       </tr>
