@@ -280,7 +280,20 @@ If you need a permission code to join the course, please fill out this [form](ht
          <td>Recursive SNARKs, Aggregation and Accumulation
         | <a href = "https://youtu.be/0LW-qeVe6QI"> Lecture </a> 
            | <a href = "https://youtube.com/playlist?list=PLS01nW3RtgopkbOmAfolTngGbnJ3SYmYu"> Playlist </a>
-             | <a href = "{{site.baseurl}}/assets/lecture10.pdf"> Slides </a></td>
+             | <a href = "{{site.baseurl}}/assets/lecture10.pdf"> Slides </a>
+        <br>
+        <br> 
+        <b>Readings</b>
+
+            <ul>
+            <li><a href="https://medium.com/starkware/recursive-starks-78f8dd401025">Recursive STARK Proofs</a></li>
+            <li><a href="https://eprint.iacr.org/2019/1407">Incrementally Verifiable Computation via Incremental PCPs</a></li>
+            <li><a href="https://eprint.iacr.org/2014/595.pdf">Scalable Zero Knowledge via Cycles of Elliptic Curves</a></li>
+            <li><a href="https://eprint.iacr.org/2021/370.pdf">Nova</a></li>
+            <li><a href="https://eprint.iacr.org/2020/1618.pdf">Proof-Carrying Data without Succinct Arguments</a></li>
+            <li><a href="https://eprint.iacr.org/2022/1576.pdf">Folding Schemes with Selective Verification</a></li>
+            </ul>
+        </td>
       </tr>
       <tr>
          <td colspan=2 align=center> <font size="-0.5" style="font-weight: bolder">Spring Break (03/27 - 03/31)</font> </td>
