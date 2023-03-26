@@ -280,6 +280,7 @@ If you need a permission code to join the course, please fill out this [form](ht
          <td>Recursive SNARKs, Aggregation and Accumulation
         | <a href = "https://youtu.be/0LW-qeVe6QI"> Lecture </a> 
            | <a href = "https://youtube.com/playlist?list=PLS01nW3RtgopkbOmAfolTngGbnJ3SYmYu"> Playlist </a>
+           | <a href = "https://forms.gle/AX24FKdR52hp1Sos6"> Quiz </a>
              | <a href = "{{site.baseurl}}/assets/lecture10.pdf"> Slides </a>
         <br>
         <br> 
