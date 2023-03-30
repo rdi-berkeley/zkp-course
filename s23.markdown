@@ -300,35 +300,28 @@ If you need a permission code to join the course, please fill out this [form](ht
          <td colspan=2 align=center> <font size="-0.5" style="font-weight: bolder">Spring Break (03/27 - 03/31)</font> </td>
       </tr>
       <tr>
-         <td colspan=2 align=center> <b>3. Applications of ZKP</b> </td>
+         <td colspan=2 align=center> <b>3. Applications and Advanced Topics in ZKP</b> </td>
       </tr>
-      <tr>
+     <tr>
          <td>04/04</td>
-         <td>Overview of Applications of ZKP</td>
+         <td>Theoretical Foundations &amp; Recent Theoretical Advancements</td>
       </tr>
       <tr>
          <td>04/11</td>
-         <td>Improving Blockchain Scalability: zkRollup and zkEVM</td>
+         <td>Overview of ZKP Applications &amp; zkRollup and zkEVM</td>
       </tr>
       <tr>
          <td>04/18</td>
          <td>Privacy-preserving Blockchains</td>
       </tr>
       <tr>
-         <td colspan=2 align=center> <b>4. Advanced Topics in ZKP</b> </td>
-      </tr>
-      <tr>
          <td>04/25</td>
-         <td>Theoretical Foundations &amp; Recent Theoretical Advancements</td>
+         <td>Formal Verification of ZKP</td>
       </tr>
       <tr>
          <td>05/02</td>
          <td>Hardware Acceleration of ZKP</td>
-      </tr>
-      <tr>
-         <td>05/09</td>
-         <td>Formal Verification of ZKP (Optional Lecture)</td>
-      </tr>
+     </tr>
    </tbody>
 </table>
 
