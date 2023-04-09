@@ -307,6 +307,7 @@ If you need a permission code to join the course, please fill out this [form](ht
          <td>Theoretical Foundations &amp; Recent Theoretical Advancements
            | <a href = "https://youtu.be/CIGnBb8B0rQ"> Lecture </a> 
            | <a href = "https://youtube.com/playlist?list=PLS01nW3RtgortBgR8sznyBbYvS2R63fe0"> Playlist </a>
+           | <a href = "https://forms.gle/1kVrKn7SupCX8Eqg9"> Quiz </a>
              | <a href = "{{site.baseurl}}/assets/lecture11.pdf"> Slides </a>
        </td>
       </tr>
