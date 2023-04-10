@@ -41,7 +41,7 @@ redirect_from:
 </table>
 
 ## Course Staff
-* **TAs**: Deevashwer Rathee (Head TA)
+* **TAs**: Deevashwer Rathee (Head TA) (Office Hours: Monday 1-2PM, Password: 826181) (<a href = "https://berkeley.zoom.us/j/96029091565?pwd=ZlIxMTgvbDF6MHJTK1NQSGs2Q3FxQT09"> Zoom Link </a>)
 * **Readers**: Elden Ren, Vikhyath Mondreti
 
 ## Class Time
