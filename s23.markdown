@@ -13,6 +13,7 @@ redirect_from:
 
 - [Zoom link](https://berkeley.zoom.us/j/96029091565?pwd=ZlIxMTgvbDF6MHJTK1NQSGs2Q3FxQT09): [ <img src="./assets/meetings.png" alt="link" width="30" style="vertical-align: middle"/> ](https://berkeley.zoom.us/j/96029091565?pwd=ZlIxMTgvbDF6MHJTK1NQSGs2Q3FxQT09) (Password: 826181) [[Add to your calendar](https://calendar.google.com/calendar/embed?src=c_9a6c323b6f09f1f218fc89634a55572426f81c480877866ad1688540e2771c5b%40group.calendar.google.com&ctz=America%2FLos_Angeles)]
 - [Guest Speaker Webinars](https://berkeley.zoom.us/j/95348800063): [<img src="./assets/meetings.png" alt="link" width="30" style="vertical-align: middle"/>](https://berkeley.zoom.us/j/95348800063)
+- [OH (Monday 1-2PM)](https://berkeley.zoom.us/j/96029091565?pwd=ZlIxMTgvbDF6MHJTK1NQSGs2Q3FxQT09): [ <img src="./assets/meetings.png" alt="link" width="30" style="vertical-align: middle"/> ](https://berkeley.zoom.us/j/96029091565?pwd=ZlIxMTgvbDF6MHJTK1NQSGs2Q3FxQT09) (Password: 826181)
 - For general course content related questions, please join our [edstem](https://edstem.org/us/courses/34475/discussion/).
 - <span style="color: red;"><b>Do not email the course staff or TAs. For private matters, post a private question on edstem and make sure it is visible to all teaching staff.</b></span>
 
@@ -41,7 +42,7 @@ redirect_from:
 </table>
 
 ## Course Staff
-* **TAs**: Deevashwer Rathee (Head TA) (Office Hours: Monday 1-2PM, Password: 826181) (<a href = "https://berkeley.zoom.us/j/96029091565?pwd=ZlIxMTgvbDF6MHJTK1NQSGs2Q3FxQT09"> Zoom Link </a>)
+* **TAs**: Deevashwer Rathee (Head TA)
 * **Readers**: Elden Ren, Vikhyath Mondreti
 
 ## Class Time
