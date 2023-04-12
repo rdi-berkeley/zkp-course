@@ -314,7 +314,10 @@ If you need a permission code to join the course, please fill out this [form](ht
       </tr>
       <tr>
          <td>04/11</td>
-         <td>Overview of ZKP Applications &amp; zkRollup and zkEVM</td>
+         <td>Overview of ZKP Applications &amp; zkRollup and zkEVM
+         | <a href = "https://youtube.com/playlist?list=PLS01nW3RtgoqV9S-crVXIkMoaE1JRJwML"> Playlist </a>
+             | <a href = "{{site.baseurl}}/assets/lecture12.pdf"> Slides </a>
+        </td>
       </tr>
       <tr>
          <td>04/18</td>
