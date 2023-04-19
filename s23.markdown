@@ -322,8 +322,18 @@ If you need a permission code to join the course, please fill out this [form](ht
       </tr>
       <tr>
          <td>04/18</td>
-         <td>Privacy-preserving Blockchains
-        | <a href = "https://youtube.com/playlist?list=PLS01nW3Rtgor9mqIK8fqtEwqxg_aP2lr2"> Playlist </a></td>
+         <td>Privacy-preserving Architectures
+         | <a href = "https://youtu.be/1o3cl42bs40"> Lecture </a>
+         <br> 
+         More ZKP Applications
+         | <a href = "https://youtu.be/tbEsv2afhko"> Lecture </a>
+         <br>
+         Building opcode compatible zk EVMs
+         | <a href = "https://youtu.be/Crzw7ccuHd0"> Lecture </a>
+         <br>
+         ZKP Applications & zkBridge, Trustless Bridge made Practical 
+         | <a href = "https://youtu.be/0bKasr4G7OM"> Lecture </a>
+      </td>
       </tr>
       <tr>
          <td>04/25</td>
