@@ -322,7 +322,8 @@ If you need a permission code to join the course, please fill out this [form](ht
       </tr>
       <tr>
          <td>04/18</td>
-         <td>Privacy-preserving Blockchains</td>
+         <td>Privacy-preserving Blockchains
+        | <a href = "https://youtube.com/playlist?list=PLS01nW3Rtgor9mqIK8fqtEwqxg_aP2lr2"> Playlist </a></td>
       </tr>
       <tr>
          <td>04/25</td>
