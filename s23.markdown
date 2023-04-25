@@ -412,7 +412,7 @@ Students will be completing an open-ended research project culminating in a pres
 
 More on this to be announced on Ed. 
 
-**Students taking 1 unit** should also write an article (at least 2 pages) about the relevant topic covered in this course or your experience of the course posted online, and optionally tweet about the article. The article should be finished by May 10th.
+**Students taking 1 unit** should also write an article (at least 2 pages) about the relevant topic covered in this course or your experience of the course posted online, and optionally tweet about the article. The article should be finished by May 5th.
 For example a blog post on:
 - Summarizing information from certain lectures
 - Specific zk-proof protocols
