@@ -340,6 +340,7 @@ If you need a permission code to join the course, please fill out this [form](ht
          <td>Formal Verification of ZKP 
            | <a href = "https://youtu.be/av7Wq742GIA"> Lecture </a> 
            | <a href = "https://youtube.com/playlist?list=PLS01nW3RtgorMPv-awIn16HAdmyfIqsNj"> Playlist </a>
+           | <a href = "{{site.baseurl}}/assets/lecture14.pdf"> Slides </a>
          </td>
       </tr>
       <tr>
