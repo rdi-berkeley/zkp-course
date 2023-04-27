@@ -436,7 +436,7 @@ The article’s marking criteria can be found below:
 | [Project proposal](https://docs.google.com/forms/d/e/1FAIpQLSdxWy25zna2baS3vYmUGpixeHG2CLn0XsgXwOYls6cUBnD_Ww/viewform) | 02/07     | ~~02/27~~ 03/03
 | [Lab](https://github.com/rdi-berkeley/zkp-mooc-lab)  | 02/28     | 03/13
 | [Project milestone](https://forms.gle/P3vrcmTwzckwNdpQ9)     | 03/21     | 03/26
-| HW ([Solutions]({{site.baseurl}}/assets/lecture14.pdf))    | 04/04     | 04/17
+| HW ([Solutions]({{site.baseurl}}/assets/HW-solutions.pdf))    | 04/04     | 04/17
 | Project presentation  | -    | 04/25 (In Class)
 | Project final report  | 05/02    | 05/12
 
