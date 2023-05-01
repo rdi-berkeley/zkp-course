@@ -312,39 +312,48 @@ If you need a permission code to join the course, please fill out this [form](ht
              | <a href = "{{site.baseurl}}/assets/lecture11.pdf"> Slides </a>
        </td>
       </tr>
-      <tr>
+            <tr>
          <td>04/11</td>
          <td>Overview of ZKP Applications &amp; zkRollup and zkEVM
-           | <a href = "https://youtu.be/vuQGdbpDWcs"> Lecture </a>
-         | <a href = "https://youtube.com/playlist?list=PLS01nW3RtgoqV9S-crVXIkMoaE1JRJwML"> Playlist </a>
+             | <a href = "https://youtu.be/vuQGdbpDWcs"> Lecture </a>
+           | <a href = "https://youtube.com/playlist?list=PLS01nW3RtgoqV9S-crVXIkMoaE1JRJwML"> Playlist </a>
              | <a href = "{{site.baseurl}}/assets/lecture12.pdf"> Slides </a>
-        </td>
+             
+             <br> 
+             Building opcode compatible zk EVMs
+             | <a href = "https://youtu.be/Crzw7ccuHd0"> Lecture </a>
+             
+          </td>
       </tr>
       <tr>
          <td>04/18</td>
          <td>Privacy-preserving Architectures
-         | <a href = "https://youtu.be/1o3cl42bs40"> Lecture </a>
-         <br> 
-         More ZKP Applications
-         | <a href = "https://youtu.be/tbEsv2afhko"> Lecture </a>
-         <br>
-         Building opcode compatible zk EVMs
-         | <a href = "https://youtu.be/Crzw7ccuHd0"> Lecture </a>
-         <br>
-         ZKP Applications & zkBridge, Trustless Bridge made Practical 
-         | <a href = "https://youtu.be/0bKasr4G7OM"> Lecture </a>
-      </td>
+             | <a href = "https://youtu.be/1o3cl42bs40"> Lecture </a>
+             <br> 
+          </td>
       </tr>
+       
       <tr>
          <td>04/25</td>
-         <td>Formal Verification of ZKP 
-           | <a href = "https://youtu.be/av7Wq742GIA"> Lecture </a> 
-           | <a href = "https://youtube.com/playlist?list=PLS01nW3RtgorMPv-awIn16HAdmyfIqsNj"> Playlist </a>
-           | <a href = "{{site.baseurl}}/assets/lecture14.pdf"> Slides </a>
+         <td>ZKP Applications & zkBridge, Trustless Bridge made Practical 
+             | <a href = "https://youtu.be/0bKasr4G7OM"> Lecture </a>
+             <br>
+              More ZKP Applications
+             | <a href = "https://youtu.be/tbEsv2afhko"> Lecture </a>
          </td>
       </tr>
-      <tr>
+       
+       <tr>
          <td>05/02</td>
+         <td>Formal Verification of ZKP
+          | <a href = "https://youtu.be/av7Wq742GIA"> Lecture </a> 
+           | <a href = "https://youtube.com/playlist?list=PLS01nW3RtgorMPv-awIn16HAdmyfIqsNj"> Playlist </a>
+             | <a href = "{{site.baseurl}}/assets/lecture14.pdf"> Slides </a>
+         </td>
+      </tr>
+       
+      <tr>
+         <td>05/09</td>
          <td>Hardware Acceleration of ZKP</td>
      </tr>
    </tbody>
