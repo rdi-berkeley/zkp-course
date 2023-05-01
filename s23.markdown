@@ -329,6 +329,7 @@ If you need a permission code to join the course, please fill out this [form](ht
          <td>04/18</td>
          <td>Privacy-preserving Architectures
              | <a href = "https://youtu.be/1o3cl42bs40"> Lecture </a>
+             | <a href = "{{site.baseurl}}/assets/lecture_privacy.pdf"> Slides </a>
              <br> 
           </td>
       </tr>
