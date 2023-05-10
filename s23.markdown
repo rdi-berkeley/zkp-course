@@ -356,7 +356,8 @@ If you need a permission code to join the course, please fill out this [form](ht
        
       <tr>
          <td>05/09</td>
-         <td>Hardware Acceleration of ZKP</td>
+         <td>Hardware Acceleration of ZKP
+          | <a href = "https://youtu.be/ez46At3xTjM"> Lecture </a> </td>
      </tr>
    </tbody>
 </table>
