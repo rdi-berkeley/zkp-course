@@ -339,9 +339,11 @@ If you need a permission code to join the course, please fill out this [form](ht
          <td>04/25</td>
          <td>ZKP Applications & zkBridge, Trustless Bridge made Practical 
              | <a href = "https://youtu.be/0bKasr4G7OM"> Lecture </a>
+             | <a href = "{{site.baseurl}}/assets/dawnsong-lecture.pdf"> Slides </a>
              <br>
               More ZKP Applications
              | <a href = "https://youtu.be/tbEsv2afhko"> Lecture </a>
+             | <a href = "{{site.baseurl}}/assets/yupeng-lecture.pdf"> Slides </a>
          </td>
       </tr>
        
