@@ -57,7 +57,7 @@ This is a variable-unit course. The requirements for each number of units are li
 * 3 units: requirements for 2 units + class project with implementation and short report
 * 4 units: requirements for 2 units + class project with broader scope, implementation and a longer workshop-style report
 
-If you need a permission code to join the course, please fill out this [form](https://forms.gle/c9o5Fz9inJjPfzJy8) and we’ll get back to you as soon as possible.
+If you need a permission code to join the course, please fill out this <a href="https://forms.gle/c9o5Fz9inJjPfzJy8" style="text-decoration: none; color: hsl(232, 50%, 50%); background-color: white;" onmouseover="this.style.textDecoration='underline';" onmouseout="this.style.textDecoration='none';" onfocus="this.style.outline='auto';" onblur="this.style.outline='none';">form</a> and we’ll get back to you as soon as possible.
 
 ## Course Syllabus
 
