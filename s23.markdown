@@ -158,10 +158,10 @@ If you need a permission code to join the course, please fill out this <a href="
       </ul>
       <b>Other Helpful Resources</b>
       <ul>
-        <li><a href="https://eprint.iacr.org/2019/550">Spartan</a></li>
-        <li><a href="https://eprint.iacr.org/2017/1132">Hyrax</a></li>
-        <li><a href="https://faculty.cc.gatech.edu/~genkin/papers/vsql.pdf">vSQL</a></li>
-        <li><a href="https://eprint.iacr.org/2019/317.pdf">Libra</a></li>
+        <li><a href="https://eprint.iacr.org/2019/550" style="font-size:24px">Spartan</a></li>
+        <li><a href="https://eprint.iacr.org/2017/1132" style="font-size:24px">Hyrax</a></li>
+        <li><a href="https://faculty.cc.gatech.edu/~genkin/papers/vsql.pdf style="font-size:24px">vSQL</a></li>
+        <li><a href="https://eprint.iacr.org/2019/317.pdf" style="font-size:24px">Libra</a></li>
       </ul>
     </td>
       </tr>
